@@ -7,14 +7,6 @@ or decentralization. As it's EVM-compatible (with Solidity/Vyper), 99% of Ethere
 needing to refactor or re-audit any code. ZKsync Era also uses an LLVM-based compiler that will eventually enable
 developers to write smart contracts in popular languages such as C++ and Rust.
 
-This repository contains the Solidity compiler and language tuned for EraVM.
-
-## License
-
-Solidity is licensed under [GNU General Public License v3.0](LICENSE.txt).
-
-Some third-party code has its [own licensing terms](cmake/templates/license.h.in).
-
 ## Official Links
 
 - [Website](https://zksync.io/)
